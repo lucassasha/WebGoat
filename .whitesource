@@ -3,7 +3,8 @@
     "configMode": "AUTO",
     "configExternalURL": "",
     "projectToken": "",
-    "baseBranches": []
+    "baseBranches": [],
+    "enableReachability": true
   },
   "scanSettingsSAST": {
     "enableScan": false,
@@ -30,5 +31,4 @@
       "enabled": true
     }
   }
- "enableReachability": true
 }
